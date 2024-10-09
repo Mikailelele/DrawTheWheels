@@ -1,0 +1,18 @@
+{
+  "idSave": 18,
+  "isFirstSession": false,
+  "language": "en",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    false,
+    false
+  ],
+  "LevelNumber": 1,
+  "CurrentStage": 0,
+  "IsAudioMuted": false,
+  "LastStageTime": 9,
+  "BestStageTime": 9
+}
